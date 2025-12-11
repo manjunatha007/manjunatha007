@@ -1,47 +1,62 @@
-![Banner](89b8598d-3a5e-4e04-b105-08b8f1056a1b.png)
-
-# 👨‍💻 Manjunatha  
-### Master of Computer Applications (MCA)
-
-Welcome to my GitHub portfolio!  
-I am passionate about software development, problem-solving, and building real-world applications using modern technologies.
-
----
 
 
+<h1 align="center">Hi 👋, I'm manjunatha</h1>
+<h3 align="center">Frontend Developer | MCA Student</h3>
 
-
-
-# 👋 Hi, I'm Manjunatha
-
-🎓 MCA Student | 💻 Aspiring Software Developer  
-🌱 Currently learning: Data Structures,MERN Stack  
-🚀 Passionate about building real-world projects & improving problem-solving skills  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manjunatha007&label=Profile%20views&color=blue&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🔧 Skills
-- **Languages:** Java,  JavaScript  
-- **Web:** HTML, CSS, React, Node.js  
-- **Database:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code  
+### 👨‍💻 About Me  
+I'm a passionate frontend developer who loves building modern, responsive, and user-friendly web applications.  
+I enjoy learning new technologies, solving problems, and improving my skills every day 🚀.
+
+- 🔭 I’m currently working on **Live Messenger**  
+- 🌱 Learning **Next.js, React, Tailwind CSS**  
+- 📫 Reach me at **sathwikacharya61@gmail.com**
 
 ---
 
-## 📘 MCA Projects
-- **Student Management System (Java + MySQL)**
-- **E-Commerce Web App (MERN Stack)**
-- **Library Management System**
-- **Chat Application (Socket Programming)**
+## 🌐 Connect With Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/manjunatha-kulal-041342320/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/__karna_k/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/LI4x2F5d1p/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
+## 🛠 Languages & Tools  
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
 
 ---
 
-## 📫 Contact
-📧 Email: manjunathakodimane@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/#
+## 📊 GitHub Stats  
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunatha007&show_icons=true&layout=compact" />
+</p>
 
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunatha007&show_icons=true" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathwik61" />
+</p>
