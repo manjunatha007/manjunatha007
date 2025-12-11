@@ -15,7 +15,7 @@ I enjoy learning new technologies, solving problems, and improving my skills eve
 
 - 🔭 I’m currently working on **Live Messenger**  
 - 🌱 Learning **Next.js, React, Tailwind CSS**  
-- 📫 Reach me at **sathwikacharya61@gmail.com**
+- 📫 Reach me at **manjunathakodimane@gmail.com**
 
 ---
 
