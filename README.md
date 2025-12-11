@@ -1,3 +1,17 @@
+![Banner](89b8598d-3a5e-4e04-b105-08b8f1056a1b.png)
+
+# 👨‍💻 Manjunatha  
+### Master of Computer Applications (MCA)
+
+Welcome to my GitHub portfolio!  
+I am passionate about software development, problem-solving, and building real-world applications using modern technologies.
+
+---
+
+
+
+
+
 # 👋 Hi, I'm Manjunatha
 
 🎓 MCA Student | 💻 Aspiring Software Developer  
